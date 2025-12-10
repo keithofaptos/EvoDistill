@@ -1,6 +1,6 @@
 # EvoDistill 🧬
 
-**Lossless (and beyond) LLM distillation powered by the Darwin Gödel Machine**
+**Lossless (and beyond) LLM distillation powered by the Da in rwin Gödel Machine**
 
 From mere approximation → **100%+ teacher retention** at 5-10× smaller size and speed.  
 Inspired by the Darwin Gödel Machine (arXiv:2505.22954) and classic knowledge distillation.
