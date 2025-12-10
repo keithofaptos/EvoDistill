@@ -16,7 +16,7 @@ MIT licensed · Plug-and-play · Works today
 
 ## Quickstart (5 minutes)
 ```bash
-https://github.com/keithofaptos/EvoDistill.git
+git clone https://github.com/keithofaptos/EvoDistill.git
 cd EvoDistill
 pip install -r requirements.txt
 python evo_distill.py
