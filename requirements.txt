@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.38
+datasets
+evaluate
+sentence-transformers
+evotorch
+gitpython
+accelerate
+peft
