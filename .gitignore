@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+temp/
+evo_archive/
+best_student/
+*.pt
+*.bin
