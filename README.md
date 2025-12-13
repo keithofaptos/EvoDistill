@@ -9,7 +9,7 @@ Lossless+ evolutionary distillation that beats the teacher model.
 
 Evolutionary Hyperparameter Optimization for Lossless Knowledge Distillation.
 
-[Read the full paper here](./evodistill_paper.pdf)
+[Read the full paper here](https://github.com/keithofaptos/EvoDistill/blob/main/Evodistill_paper.pdf)
 [text to display](Google Illuminate Audio expainer: https://illuminate.google.com/library?play=Cqu6Ed_Pep9z)
 ```
 cd EvoDistill && python evo_distill.py
