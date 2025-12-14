@@ -228,6 +228,11 @@ EvoDistill/
 
 ## References
 
+[0] J. Schmidhuber et al. : https://people.idsia.ch/~juergen/very-deep-learning-1991.html
+               "          : https://sferics.idsia.ch/pub/juergen/chunker.pdf
+
+---
+
 [1] G. Hinton, O. Vinyals, and J. Dean. Distilling the knowledge in a neural network. arXiv:1503.02531, 2015.
 
 [2] K. Zhang et al. Student Network Learning via Evolutionary Knowledge Distillation. arXiv:2103.13811, 2021.
